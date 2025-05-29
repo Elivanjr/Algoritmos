@@ -7,8 +7,8 @@ para cont <- 10 ate 100 faca
 		cel <- cel + 10
 		far <- cel * 1.8 + 32
 		escreva " "
-		escreva "O valor em F°: ", far
-		escreva "O valor em C°: ", cel
+		escreva "O valor em FÂº: ", far
+		escreva "O valor em CÂº: ", cel
 		escreva " "
 	fim
 fim_algoritmo
